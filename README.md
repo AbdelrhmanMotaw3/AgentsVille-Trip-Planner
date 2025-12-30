@@ -94,7 +94,7 @@ The **AgentsVille Trip Planner** is a sophisticated AI-powered travel planning s
 
 1. **Clone the repository**
    ```bash
-   git clone <https://github.com/AbdelrhmanMotaw3/AgentsVille-Trip-Planner.git>
+   git clone https://github.com/AbdelrhmanMotaw3/AgentsVille-Trip-Planner.git
    cd AgentsVille-Trip-Planner
    ```
 
@@ -270,3 +270,4 @@ This project was developed as part of the **Udacity Agentic AI Nanodegree** prog
 ---
 
 **Note**: This project showcases enterprise-level AI engineering practices including multi-agent systems, advanced prompting techniques, and comprehensive evaluation frameworks. The AgentsVille Trip Planner represents a complete, production-ready AI travel planning system.
+
